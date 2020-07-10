@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>demon.png</file>
+        <file>monk.png</file>
+        <file>water.png</file>
+        <file>boat.png</file>
+        <file>bird.png</file>
+        <file>land.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>fail.mp3</file>
+        <file>forbidden.mp3</file>
+        <file>rowing_boat.mp3</file>
+        <file>tada.mp3</file>
+        <file>you_win.mp3</file>
+        <file>mouse_click.mp3</file>
+        <file>jump.mp3</file>
+    </qresource>
+</RCC>

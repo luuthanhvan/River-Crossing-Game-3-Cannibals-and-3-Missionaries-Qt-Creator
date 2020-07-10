@@ -1,0 +1,8 @@
+Rules:
+- There are 3 Missionaries and 3 Cannibals.
+- They all have to cross a river in a boat.
+- Boat can only carry two people at a time.
+- As long as there are equal number of Missionaries and Cannibals, then Cannibals will not eat Missionaries.
+- If the number of Cannibals are greater than the number of Missionaries on the same side of the river,
+then Cannibals will eat the Missionaries.
+- So how can we make all the 6 peoples to arrive to the other side safely?
